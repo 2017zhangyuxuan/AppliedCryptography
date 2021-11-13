@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../build/output/lib/libFIRSTWORK_LIB.a CMakeFiles/FIRSTWORK_LIB.dir/sm4.cpp.o CMakeFiles/FIRSTWORK_LIB.dir/test.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../build/output/lib/libFIRSTWORK_LIB.a

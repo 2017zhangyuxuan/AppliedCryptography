@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangyuxuan/WordAndStudy/ClionProjects/AppliedCryptography/hash-library/hex.cpp
+hex.h
+/Users/zhangyuxuan/WordAndStudy/ClionProjects/AppliedCryptography/hash-library/hex.h
+
+/Users/zhangyuxuan/WordAndStudy/ClionProjects/AppliedCryptography/hash-library/hex.h
+string
+-
+

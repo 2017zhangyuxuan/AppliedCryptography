@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../FirstWork/sm4.h
+util.h
+../FirstWork/util.h
+string
+-
+
+../FirstWork/test.h
+
+../util/util.h
+string
+-
+
+/Users/zhangyuxuan/WordAndStudy/ClionProjects/AppliedCryptography/main.cpp
+test.h
+/Users/zhangyuxuan/WordAndStudy/ClionProjects/AppliedCryptography/test.h
+sm4.h
+/Users/zhangyuxuan/WordAndStudy/ClionProjects/AppliedCryptography/sm4.h
+iostream
+-
+string
+-
+
